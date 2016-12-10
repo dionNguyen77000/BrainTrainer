@@ -132,7 +132,7 @@
         android:layout_below="@+id/gridLayout"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="37dp"
-        android:id="@+id/textView8"
+        android:id="@+id/resultTextView"
         android:textSize="40sp" />
 
 </RelativeLayout>
